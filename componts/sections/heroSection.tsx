@@ -1,5 +1,7 @@
 import { Github, Linkedin, Mail, ChevronDown,Phone } from 'lucide-react';
 import Image from 'next/image';
+import { FaWhatsapp } from "react-icons/fa";
+
 
 export default function HeroSection({ scrollY }: { scrollY: number }) {
   const scrollToSection = (id: string) => {
@@ -44,11 +46,11 @@ export default function HeroSection({ scrollY }: { scrollY: number }) {
                 <Mail className="w-6 h-6" />
               </a>
               <a
-                href="tel:+94769722575"
+                href="https://wa.me/94769722575"
                 className="p-3 bg-slate-800 hover:bg-slate-700 rounded-full transition-all transform hover:scale-110"
                 title="+94769722575"
               >
-                <Phone className="w-6 h-6" />
+                <FaWhatsapp className="w-6 h-6" />
               </a>
             </div>
               <button 
