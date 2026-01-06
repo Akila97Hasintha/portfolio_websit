@@ -4,4 +4,5 @@ export interface Project {
   tags: string[];
   link: string;
   gradient: string;
+  image: string[];
 }

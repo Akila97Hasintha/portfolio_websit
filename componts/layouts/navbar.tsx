@@ -11,8 +11,8 @@ export default function NabBar({onNavigate}:NavbarProps){
     return (
         <nav className="fixed top-0 w-full bg-slate-900/80 backdrop-blur-md z-50 border-b border-slate-800">
         <div className="max-w-6xl mx-auto px-6 py-4 flex justify-between items-center">
-          <div className="text-2xl font-bold bg-gradient-to-r from-violet-400 to-purple-600 bg-clip-text text-transparent">
-            YourName
+          <div className="text-2xl font-bold bg-linear-to-r from-violet-400 to-purple-600 bg-clip-text text-transparent">
+            Akila Hasintha
           </div>
           <div className="flex gap-6">
             {['Projects', 'Skills', 'Experience', 'Contact'].map((item) => (
