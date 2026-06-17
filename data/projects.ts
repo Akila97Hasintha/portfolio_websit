@@ -32,9 +32,9 @@ export const projects = [
       link: "#",
       gradient: "from-blue-500 to-indigo-600",
       image: [
-        "/assets/slb/slb1.png",
-        "/assets/slb/slb2.png",
-        "/assets/slb/slb3.png",
+        "/assets/slb/slb1.jpeg",
+        "/assets/slb/slb2.jpeg",
+        "/assets/slb/slb3.jpeg",
       ]
     }
 ];
