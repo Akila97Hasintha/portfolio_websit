@@ -35,6 +35,18 @@ export const projects = [
         "/assets/slb/slb1.jpeg",
         "/assets/slb/slb2.jpeg",
         "/assets/slb/slb3.jpeg",
+        "/assets/slb/slb4.jpeg",
+        "/assets/slb/slb5.jpeg",
+        "/assets/slb/slb6.jpeg",
+        "/assets/slb/slb7.jpeg",
+        "/assets/slb/slb8.jpeg",
+        "/assets/slb/slb9.jpeg",
+        "/assets/slb/slb10.jpeg",
+        "/assets/slb/slb11.jpeg",
+        "/assets/slb/slb12.jpeg",
+        "/assets/slb/slb13.jpeg",
+        "/assets/slb/slb14.jpeg",
+        " /assets/slb/slb15.jpeg",
       ]
     }
 ];
