@@ -26,15 +26,15 @@ export const projects = [
     ]
     },
     {
-      title: "Real-Time Collaboration Tool",
-      description: "WebSocket-based collaborative editing platform with operational transformation.",
-      tags: ["Node.js", "WebSocket", "MongoDB", "React"],
+      title: "Small Lending Business Mobile App",
+      description: "A Flutter-based mobile application designed for small lending businesses to manage customers, loans, repayments, and financial records efficiently. The app features secure user authentication, Firebase cloud synchronization, installment tracking, repayment management, dashboard analytics, and Bluetooth receipt printing for daily business operations.",
+      tags: ["Flutter", "Firebase", "Firestore", "Bluetooth Printing", "Android", "Mobile App"],
       link: "#",
-      gradient: "from-orange-500 to-red-600",
+      gradient: "from-blue-500 to-indigo-600",
       image: [
-      "/assets/gms/gms1.png",
-      "/assets/gms/gms2.png",
-      "/assets/gms/gms3.png",
-    ]
+        "/assets/slb/slb1.png",
+        "/assets/slb/slb2.png",
+        "/assets/slb/slb3.png",
+      ]
     }
 ];
